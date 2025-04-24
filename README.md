@@ -62,7 +62,7 @@ The model is a deep neural network trained using a sequence of epochs with decre
 
 ## 📁 Notebooks
 
-- [`Stock_Price_Prediction.ipynb`](./Stock_Price_Prediction.ipynb): Full implementation of data processing, modeling, training, and evaluation pipeline.
+- [`Stock_Price_Prediction.ipynb`](./Big Mart Sale Forecast.ipynb): Full implementation of data processing, modeling, training, and evaluation pipeline.
 
 ## 📦 Requirements
 
